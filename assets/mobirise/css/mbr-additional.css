@@ -1406,3 +1406,36 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rBDTa09a9L {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/untitled-design-1-1700x820.png");
+}
+.cid-rBEMyyuoeh {
+  background: #ffffff;
+}
+.cid-rBEMyyuoeh .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rBEMyyuoeh .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rBEMyyuoeh figcaption {
+  position: relative;
+}
+.cid-rBEMyyuoeh figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBEMyyuoeh .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rBDO5jvRtv {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
